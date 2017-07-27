@@ -33,8 +33,8 @@ strtolower($email)))
  { 
  
   echo 
-"<center>Error <a 
-href='javascript:history.back(1)'><B>Back</B></a>. You enter incorect data"; 
+"<center>Incorrect data !!!! <a 
+href='javascript:history.back(1)'><B>Back</B></a>. You enter incorect data, please re-enter it"; 
  
   } 
  
@@ -61,7 +61,19 @@ $msg="
  
  // Отправляем письмо админу  
  
-mail("$adminemail", "$date $time Message from $name", "$msg"); 
+mail("$adminemail", "$date $time Main Site, Message from $name", "$msg"); 
+	 
+ // Сохраняем в базу данных 
+ 
+$f = fopen("message.txt", "a+"); 
+ 
+fwrite($f," \n $date $time Message from $name"); 
+ 
+fwrite($f,"\n $msg "); 
+ 
+fwrite($f,"\n ---------------"); 
+ 
+fclose($f); 
  
 // Выводим сообщение пользователю 
  

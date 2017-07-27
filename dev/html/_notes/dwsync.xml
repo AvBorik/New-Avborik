@@ -12,4 +12,10 @@
 <file name="settings.jade" server="D:/OpenServer/domains/avborik-test/" local="131446036730000000" remote="131446036730000000" Dst="0" />
 <file name="signin.jade" server="D:/OpenServer/domains/avborik-test/" local="131446036730000000" remote="131446036730000000" Dst="0" />
 <file name="signup.jade" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
+<file name="dialogs.jade" server="ftp.avborik.pro" local="131446036730000000" remote="131455871400000000" Dst="0" />
+<file name="author.jade" server="ftp.avborik.pro" local="131446036730000000" remote="131455871400000000" Dst="0" />
+<file name="settings.jade" server="ftp.avborik.pro" local="131446036730000000" remote="131455871400000000" Dst="0" />
+<file name="signin.jade" server="ftp.avborik.pro" local="131446036730000000" remote="131455871400000000" Dst="0" />
+<file name="index.jade" server="ftp.avborik.pro" local="131446036730000000" remote="131455871400000000" Dst="0" />
+<file name="signup.jade" server="ftp.avborik.pro" local="131446036740000000" remote="131455871400000000" Dst="0" />
 </dwsync>
