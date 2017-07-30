@@ -1,0 +1,31 @@
+ 
+ 30.07.17 14:12 Message from test3
+  
+ 
+ 
+<p>Name: test3</p> 
+ 
+ 
+<p>E-mail: test3@co.nz</p> 
+ 
+ 
+<p>Message: Hi this is test number 3 and we will test version 1.02, the main test is to send mail in support page</p> 
+ 
+ 
+ 
+ --------------- 
+ 30.07.17 14:16 Message from test3
+  
+ 
+ 
+<p>Name: test3</p> 
+ 
+ 
+<p>E-mail: test3@co.nz</p> 
+ 
+ 
+<p>Message: Hi this is test number 3.1 and we will test version 1.02, the main test is to send mail in support page. redirect to index page</p> 
+ 
+ 
+ 
+ ---------------

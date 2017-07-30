@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DKIM.phps" server="ftp.avborik.pro" local="131457297419590447" remote="131458497000000000" Dst="0" />
+<file name="code_generator.phps" server="ftp.avborik.pro" local="131457297429414068" remote="131458497000000000" Dst="0" />
+<file name="contactform.phps" server="ftp.avborik.pro" local="131457297433500973" remote="131458497000000000" Dst="0" />
+<file name="contents.html" server="ftp.avborik.pro" local="131457297441606978" remote="131458497000000000" Dst="0" />
+<file name="contentsutf8.html" server="ftp.avborik.pro" local="131457297444849691" remote="131458497000000000" Dst="0" />
+<file name="exceptions.phps" server="ftp.avborik.pro" local="131457297446203308" remote="131458497000000000" Dst="0" />
+<file name="gmail.phps" server="ftp.avborik.pro" local="131457297456611672" remote="131458497000000000" Dst="0" />
+<file name="gmail_xoauth.phps" server="ftp.avborik.pro" local="131457297462204944" remote="131458496400000000" Dst="0" />
+<file name="mail.phps" server="ftp.avborik.pro" local="131457297474761414" remote="131458496400000000" Dst="0" />
+<file name="index.html" server="ftp.avborik.pro" local="131457297474786489" remote="131458496400000000" Dst="0" />
+<file name="mailing_list.phps" server="ftp.avborik.pro" local="131457297483881457" remote="131458496400000000" Dst="0" />
+<file name="pop_before_smtp.phps" server="ftp.avborik.pro" local="131457297487942470" remote="131458496400000000" Dst="0" />
+<file name="send_file_upload.phps" server="ftp.avborik.pro" local="131457297523095327" remote="131458496400000000" Dst="0" />
+<file name="send_multiple_file_upload.phps" server="ftp.avborik.pro" local="131457297525621792" remote="131458496400000000" Dst="0" />
+<file name="sendmail.phps" server="ftp.avborik.pro" local="131457297532464761" remote="131458496400000000" Dst="0" />
+<file name="signed-mail.phps" server="ftp.avborik.pro" local="131457297537428850" remote="131458496400000000" Dst="0" />
+<file name="smtp.phps" server="ftp.avborik.pro" local="131457297537459024" remote="131458496400000000" Dst="0" />
+<file name="smtp_check.phps" server="ftp.avborik.pro" local="131457297545872357" remote="131458496400000000" Dst="0" />
+<file name="ssl_options.phps" server="ftp.avborik.pro" local="131457297549389965" remote="131458496400000000" Dst="0" />
+<file name="smtp_no_auth.phps" server="ftp.avborik.pro" local="131457297549505276" remote="131458496400000000" Dst="0" />
+</dwsync>
