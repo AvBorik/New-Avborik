@@ -5,4 +5,9 @@
 <file name="shBrushPhp.js" server="ftp.avborik.pro" local="131457297505900070" remote="131458505400000000" Dst="0" />
 <file name="shCore.js" server="ftp.avborik.pro" local="131457297508471762" remote="131458505400000000" Dst="0" />
 <file name="shLegacy.js" server="ftp.avborik.pro" local="131457297517033760" remote="131458505400000000" Dst="0" />
+<file name="shAutoloader.js" server="D:/OpenServer/domains/avborik-test/" local="131457297500000000" remote="131457261500000000" Dst="2" />
+<file name="shBrushPhp.js" server="D:/OpenServer/domains/avborik-test/" local="131457297500000000" remote="131457261500000000" Dst="2" />
+<file name="shCore.js" server="D:/OpenServer/domains/avborik-test/" local="131457297500000000" remote="131457261500000000" Dst="2" />
+<file name="shLegacy.js" server="D:/OpenServer/domains/avborik-test/" local="131457297510000000" remote="131457261510000000" Dst="2" />
+<file name="XRegExp.js" server="D:/OpenServer/domains/avborik-test/" local="131457297490000000" remote="131457261490000000" Dst="2" />
 </dwsync>

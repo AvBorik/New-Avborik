@@ -14,20 +14,20 @@
 <file name="screen-reader.less" server="D:/OpenServer/domains/avborik test/" local="131434975840000000" remote="131434975840000000" Dst="1" />
 <file name="stacked.less" server="D:/OpenServer/domains/avborik test/" local="131434975840000000" remote="131434975840000000" Dst="1" />
 <file name="variables.less" server="D:/OpenServer/domains/avborik test/" local="131434975840000000" remote="131434975840000000" Dst="1" />
-<file name="animated.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="bordered-pulled.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="core.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="fixed-width.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="font-awesome.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="icons.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="larger.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="list.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="mixins.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="path.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="rotated-flipped.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="screen-reader.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="stacked.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
-<file name="variables.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446036740000000" Dst="0" />
+<file name="animated.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="bordered-pulled.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="core.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="fixed-width.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="font-awesome.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="icons.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="larger.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="list.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="mixins.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="path.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="rotated-flipped.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="screen-reader.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="stacked.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="variables.less" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
 <file name="animated.less" server="ftp.avborik.pro" local="131446036740000000" remote="131455872000000000" Dst="0" />
 <file name="bordered-pulled.less" server="ftp.avborik.pro" local="131446036740000000" remote="131455872000000000" Dst="0" />
 <file name="core.less" server="ftp.avborik.pro" local="131446036740000000" remote="131455872000000000" Dst="0" />

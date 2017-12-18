@@ -4,10 +4,10 @@
 <file name="2.png" server="D:/OpenServer/domains/avborik test/" local="131434975840000000" remote="131434975840000000" Dst="1" />
 <file name="3.png" server="D:/OpenServer/domains/avborik test/" local="131434975840000000" remote="131434975840000000" Dst="1" />
 <file name="4.jpg" server="D:/OpenServer/domains/avborik test/" local="131434975840000000" remote="131434975840000000" Dst="1" />
-<file name="1.png" server="D:/OpenServer/domains/avborik-test/" local="131446036750000000" remote="131446036750000000" Dst="0" />
-<file name="2.png" server="D:/OpenServer/domains/avborik-test/" local="131446036750000000" remote="131446036750000000" Dst="0" />
-<file name="3.png" server="D:/OpenServer/domains/avborik-test/" local="131446036750000000" remote="131446036750000000" Dst="0" />
-<file name="4.jpg" server="D:/OpenServer/domains/avborik-test/" local="131446036750000000" remote="131446036750000000" Dst="0" />
+<file name="1.png" server="D:/OpenServer/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="2.png" server="D:/OpenServer/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="3.png" server="D:/OpenServer/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="4.jpg" server="D:/OpenServer/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
 <file name="2.png" server="ftp.avborik.pro" local="131446036750000000" remote="131455873200000000" Dst="0" />
 <file name="1.png" server="ftp.avborik.pro" local="131446036750000000" remote="131455873200000000" Dst="0" />
 <file name="4.jpg" server="ftp.avborik.pro" local="131446036750000000" remote="131455873200000000" Dst="0" />
