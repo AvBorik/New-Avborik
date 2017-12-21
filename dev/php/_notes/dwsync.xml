@@ -4,4 +4,6 @@
 <file name="smtp.php" server="ftp.avborik.pro" local="131458652260931317" remote="131458509000000000" Dst="0" />
 <file name="message.txt" server="ftp.avborik.pro" local="131458509600000000" remote="131458509600000000" Dst="0" />
 <file name="message.txt" server="D:/OpenServer/domains/avborik-test/" local="131458509600000000" remote="131458473600000000" Dst="2" />
+<file name="message.txt" server="D:/OSPanel/domains/avborik-test/" local="131458509600000000" remote="131458473600000000" Dst="2" />
+<file name="smtp.php" server="D:/OSPanel/domains/avborik-test/" local="131458652260000000" remote="131458616260000000" Dst="2" />
 </dwsync>

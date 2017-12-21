@@ -10,4 +10,9 @@
 <file name="shCore.js" server="D:/OpenServer/domains/avborik-test/" local="131457297500000000" remote="131457261500000000" Dst="2" />
 <file name="shLegacy.js" server="D:/OpenServer/domains/avborik-test/" local="131457297510000000" remote="131457261510000000" Dst="2" />
 <file name="XRegExp.js" server="D:/OpenServer/domains/avborik-test/" local="131457297490000000" remote="131457261490000000" Dst="2" />
+<file name="shAutoloader.js" server="D:/OSPanel/domains/avborik-test/" local="131457297500000000" remote="131457261500000000" Dst="2" />
+<file name="shBrushPhp.js" server="D:/OSPanel/domains/avborik-test/" local="131457297500000000" remote="131457261500000000" Dst="2" />
+<file name="shCore.js" server="D:/OSPanel/domains/avborik-test/" local="131457297500000000" remote="131457261500000000" Dst="2" />
+<file name="shLegacy.js" server="D:/OSPanel/domains/avborik-test/" local="131457297510000000" remote="131457261510000000" Dst="2" />
+<file name="XRegExp.js" server="D:/OSPanel/domains/avborik-test/" local="131457297490000000" remote="131457261490000000" Dst="2" />
 </dwsync>

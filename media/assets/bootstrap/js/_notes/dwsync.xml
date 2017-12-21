@@ -6,4 +6,6 @@
 <file name="bootstrap.min.js" server="D:/OpenServer/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
 <file name="bootstrap.js" server="ftp.avborik.pro" local="131446036740000000" remote="131455872000000000" Dst="0" />
 <file name="bootstrap.min.js" server="ftp.avborik.pro" local="131446036740000000" remote="131455872000000000" Dst="0" />
+<file name="bootstrap.js" server="D:/OSPanel/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="bootstrap.min.js" server="D:/OSPanel/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
 </dwsync>

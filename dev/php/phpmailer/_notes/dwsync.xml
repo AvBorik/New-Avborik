@@ -22,4 +22,15 @@
 <file name="get_oauth_token.php" server="D:/OpenServer/domains/avborik-test/" local="131457297680000000" remote="131457261680000000" Dst="2" />
 <file name="LICENSE" server="D:/OpenServer/domains/avborik-test/" local="131457297350000000" remote="131457261350000000" Dst="2" />
 <file name="VERSION" server="D:/OpenServer/domains/avborik-test/" local="131457297370000000" remote="131457261370000000" Dst="2" />
+<file name="class.phpmailer.php" server="D:/OSPanel/domains/avborik-test/" local="131457297380000000" remote="131457261380000000" Dst="2" />
+<file name="class.phpmaileroauth.php" server="D:/OSPanel/domains/avborik-test/" local="131457297380000000" remote="131457261380000000" Dst="2" />
+<file name="class.phpmaileroauthgoogle.php" server="D:/OSPanel/domains/avborik-test/" local="131457297390000000" remote="131457261390000000" Dst="2" />
+<file name="class.pop3.php" server="D:/OSPanel/domains/avborik-test/" local="131457297390000000" remote="131457261390000000" Dst="2" />
+<file name="class.smtp.php" server="D:/OSPanel/domains/avborik-test/" local="131457297400000000" remote="131457261400000000" Dst="2" />
+<file name="composer.json" server="D:/OSPanel/domains/avborik-test/" local="131457297400000000" remote="131457261400000000" Dst="2" />
+<file name="composer.lock" server="D:/OSPanel/domains/avborik-test/" local="131457297420000000" remote="131457261420000000" Dst="2" />
+<file name="get_oauth_token.php" server="D:/OSPanel/domains/avborik-test/" local="131457297680000000" remote="131457261680000000" Dst="2" />
+<file name="LICENSE" server="D:/OSPanel/domains/avborik-test/" local="131457297350000000" remote="131457261350000000" Dst="2" />
+<file name="PHPMailerAutoload.php" server="D:/OSPanel/domains/avborik-test/" local="131457297370000000" remote="131457261370000000" Dst="2" />
+<file name="VERSION" server="D:/OSPanel/domains/avborik-test/" local="131457297370000000" remote="131457261370000000" Dst="2" />
 </dwsync>

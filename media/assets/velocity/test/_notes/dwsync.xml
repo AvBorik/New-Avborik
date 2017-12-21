@@ -27,4 +27,13 @@
 <file name="jquery-1.4.3.js" server="ftp.avborik.pro" local="131446036750000000" remote="131455872600000000" Dst="0" />
 <file name="when.js" server="ftp.avborik.pro" local="131446036750000000" remote="131455872600000000" Dst="0" />
 <file name="zepto.js" server="ftp.avborik.pro" local="131446036750000000" remote="131455873200000000" Dst="0" />
+<file name="bluebird.js" server="D:/OSPanel/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="index.html" server="D:/OSPanel/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="jquery-1.11.1.js" server="D:/OSPanel/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="jquery-1.4.3.js" server="D:/OSPanel/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="q.js" server="D:/OSPanel/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="qunit-1.14.0.css" server="D:/OSPanel/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="qunit-1.14.0.js" server="D:/OSPanel/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="when.js" server="D:/OSPanel/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
+<file name="zepto.js" server="D:/OSPanel/domains/avborik-test/" local="131446036750000000" remote="131446000750000000" Dst="2" />
 </dwsync>
