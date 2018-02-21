@@ -12,4 +12,8 @@
 <file name="htmlfilter.php" server="D:/OSPanel/domains/avborik-test/" local="131457297670000000" remote="131457261670000000" Dst="2" />
 <file name="ntlm_sasl_client.php" server="D:/OSPanel/domains/avborik-test/" local="131457297660000000" remote="131457261660000000" Dst="2" />
 <file name="README.md" server="D:/OSPanel/domains/avborik-test/" local="131457297660000000" remote="131457261660000000" Dst="2" />
+<file name="README.md" server="D:/OSPanel/domains/new_avborik/" local="131457297660000000" remote="131457261660000000" Dst="2" />
+<file name="ntlm_sasl_client.php" server="D:/OSPanel/domains/new_avborik/" local="131457297660000000" remote="131457261660000000" Dst="2" />
+<file name="htmlfilter.php" server="D:/OSPanel/domains/new_avborik/" local="131457297670000000" remote="131457261670000000" Dst="2" />
+<file name="EasyPeasyICS.php" server="D:/OSPanel/domains/new_avborik/" local="131457297650000000" remote="131457261650000000" Dst="2" />
 </dwsync>

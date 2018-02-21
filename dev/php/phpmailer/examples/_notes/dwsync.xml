@@ -60,4 +60,24 @@
 <file name="smtp_check.phps" server="D:/OSPanel/domains/avborik-test/" local="131457297540000000" remote="131457261540000000" Dst="2" />
 <file name="smtp_no_auth.phps" server="D:/OSPanel/domains/avborik-test/" local="131457297540000000" remote="131457261540000000" Dst="2" />
 <file name="ssl_options.phps" server="D:/OSPanel/domains/avborik-test/" local="131457297540000000" remote="131457261540000000" Dst="2" />
+<file name="ssl_options.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297540000000" remote="131457261540000000" Dst="2" />
+<file name="smtp_no_auth.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297540000000" remote="131457261540000000" Dst="2" />
+<file name="smtp_check.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297540000000" remote="131457261540000000" Dst="2" />
+<file name="smtp.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297530000000" remote="131457261530000000" Dst="2" />
+<file name="signed-mail.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297530000000" remote="131457261530000000" Dst="2" />
+<file name="sendmail.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297530000000" remote="131457261530000000" Dst="2" />
+<file name="send_multiple_file_upload.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297520000000" remote="131457261520000000" Dst="2" />
+<file name="send_file_upload.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297520000000" remote="131457261520000000" Dst="2" />
+<file name="pop_before_smtp.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297480000000" remote="131457261480000000" Dst="2" />
+<file name="mailing_list.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297480000000" remote="131457261480000000" Dst="2" />
+<file name="mail.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297470000000" remote="131457261470000000" Dst="2" />
+<file name="index.html" server="D:/OSPanel/domains/new_avborik/" local="131457297470000000" remote="131457261470000000" Dst="2" />
+<file name="gmail_xoauth.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297460000000" remote="131457261460000000" Dst="2" />
+<file name="gmail.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297450000000" remote="131457261450000000" Dst="2" />
+<file name="exceptions.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297440000000" remote="131457261440000000" Dst="2" />
+<file name="DKIM.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297410000000" remote="131457261410000000" Dst="2" />
+<file name="contentsutf8.html" server="D:/OSPanel/domains/new_avborik/" local="131457297440000000" remote="131457261440000000" Dst="2" />
+<file name="contents.html" server="D:/OSPanel/domains/new_avborik/" local="131457297440000000" remote="131457261440000000" Dst="2" />
+<file name="contactform.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297430000000" remote="131457261430000000" Dst="2" />
+<file name="code_generator.phps" server="D:/OSPanel/domains/new_avborik/" local="131457297420000000" remote="131457261420000000" Dst="2" />
 </dwsync>

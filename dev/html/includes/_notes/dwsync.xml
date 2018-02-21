@@ -8,4 +8,6 @@
 <file name="head.jade" server="ftp.avborik.pro" local="131446036740000000" remote="131455871400000000" Dst="0" />
 <file name="footer.jade" server="D:/OSPanel/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
 <file name="head.jade" server="D:/OSPanel/domains/avborik-test/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="head.jade" server="D:/OSPanel/domains/new_avborik/" local="131446036740000000" remote="131446000740000000" Dst="2" />
+<file name="footer.jade" server="D:/OSPanel/domains/new_avborik/" local="131446036740000000" remote="131446000740000000" Dst="2" />
 </dwsync>
