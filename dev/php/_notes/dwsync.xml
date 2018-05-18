@@ -8,4 +8,6 @@
 <file name="smtp.php" server="D:/OSPanel/domains/avborik-test/" local="131458652260000000" remote="131458616260000000" Dst="2" />
 <file name="smtp.php" server="D:/OSPanel/domains/new_avborik/" local="131458652260000000" remote="131458616260000000" Dst="2" />
 <file name="message.txt" server="D:/OSPanel/domains/new_avborik/" local="131458509600000000" remote="131458473600000000" Dst="2" />
+<file name="message.txt" server="avborik.pro" local="131458509600000000" remote="131661918000000000" Dst="2" />
+<file name="smtp.php" server="avborik.pro" local="131458652260000000" remote="131661918600000000" Dst="2" />
 </dwsync>
