@@ -45,13 +45,13 @@
 <file name="jquery-1.11.1.js" server="D:/OSPanel/domains/new_avborik/" local="131446036750000000" remote="131446000750000000" Dst="2" />
 <file name="index.html" server="D:/OSPanel/domains/new_avborik/" local="131446036750000000" remote="131446000750000000" Dst="2" />
 <file name="bluebird.js" server="D:/OSPanel/domains/new_avborik/" local="131446036740000000" remote="131446000740000000" Dst="2" />
-<file name="index.html" server="avborik.pro" local="131446036750000000" remote="131661919200000000" Dst="2" />
-<file name="bluebird.js" server="avborik.pro" local="131446036740000000" remote="131661919200000000" Dst="2" />
-<file name="jquery-1.11.1.js" server="avborik.pro" local="131446036750000000" remote="131661919200000000" Dst="2" />
-<file name="jquery-1.4.3.js" server="avborik.pro" local="131446036750000000" remote="131661919200000000" Dst="2" />
-<file name="q.js" server="avborik.pro" local="131446036750000000" remote="131661919200000000" Dst="2" />
-<file name="qunit-1.14.0.css" server="avborik.pro" local="131446036750000000" remote="131661919200000000" Dst="2" />
-<file name="qunit-1.14.0.js" server="avborik.pro" local="131446036750000000" remote="131661919200000000" Dst="2" />
-<file name="when.js" server="avborik.pro" local="131446036750000000" remote="131661919200000000" Dst="2" />
-<file name="zepto.js" server="avborik.pro" local="131446036750000000" remote="131661919200000000" Dst="2" />
+<file name="index.html" server="avborik.pro" local="131446036750000000" remote="131763327000000000" Dst="1" />
+<file name="bluebird.js" server="avborik.pro" local="131446036740000000" remote="131763327000000000" Dst="1" />
+<file name="jquery-1.11.1.js" server="avborik.pro" local="131446036750000000" remote="131763327000000000" Dst="1" />
+<file name="jquery-1.4.3.js" server="avborik.pro" local="131446036750000000" remote="131763327000000000" Dst="1" />
+<file name="q.js" server="avborik.pro" local="131446036750000000" remote="131763327000000000" Dst="1" />
+<file name="qunit-1.14.0.css" server="avborik.pro" local="131446036750000000" remote="131763327000000000" Dst="1" />
+<file name="qunit-1.14.0.js" server="avborik.pro" local="131446036750000000" remote="131763327000000000" Dst="1" />
+<file name="when.js" server="avborik.pro" local="131446036750000000" remote="131763327000000000" Dst="1" />
+<file name="zepto.js" server="avborik.pro" local="131446036750000000" remote="131763327000000000" Dst="1" />
 </dwsync>

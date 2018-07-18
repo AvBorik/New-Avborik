@@ -44,15 +44,15 @@
 <file name="class.phpmaileroauthgoogle.php" server="D:/OSPanel/domains/new_avborik/" local="131457297390000000" remote="131457261390000000" Dst="2" />
 <file name="class.phpmaileroauth.php" server="D:/OSPanel/domains/new_avborik/" local="131457297380000000" remote="131457261380000000" Dst="2" />
 <file name="class.phpmailer.php" server="D:/OSPanel/domains/new_avborik/" local="131457297380000000" remote="131457261380000000" Dst="2" />
-<file name="class.phpmaileroauth.php" server="avborik.pro" local="131457297380000000" remote="131661918000000000" Dst="2" />
-<file name="class.phpmaileroauthgoogle.php" server="avborik.pro" local="131457297390000000" remote="131661918000000000" Dst="2" />
-<file name="class.phpmailer.php" server="avborik.pro" local="131457297380000000" remote="131661918000000000" Dst="2" />
-<file name="class.pop3.php" server="avborik.pro" local="131457297390000000" remote="131661918000000000" Dst="2" />
-<file name="class.smtp.php" server="avborik.pro" local="131457297400000000" remote="131661918000000000" Dst="2" />
-<file name="composer.json" server="avborik.pro" local="131457297400000000" remote="131661918000000000" Dst="2" />
-<file name="composer.lock" server="avborik.pro" local="131457297420000000" remote="131661918000000000" Dst="2" />
-<file name="get_oauth_token.php" server="avborik.pro" local="131457297680000000" remote="131661918600000000" Dst="2" />
-<file name="PHPMailerAutoload.php" server="avborik.pro" local="131457297370000000" remote="131661918600000000" Dst="2" />
-<file name="VERSION" server="avborik.pro" local="131457297370000000" remote="131661918600000000" Dst="2" />
-<file name="LICENSE" server="avborik.pro" local="131457297350000000" remote="131661918600000000" Dst="2" />
+<file name="class.phpmaileroauth.php" server="avborik.pro" local="131457297380000000" remote="131763325800000000" Dst="1" />
+<file name="class.phpmaileroauthgoogle.php" server="avborik.pro" local="131457297390000000" remote="131763325800000000" Dst="1" />
+<file name="class.phpmailer.php" server="avborik.pro" local="131457297380000000" remote="131763325800000000" Dst="1" />
+<file name="class.pop3.php" server="avborik.pro" local="131457297390000000" remote="131763325800000000" Dst="1" />
+<file name="class.smtp.php" server="avborik.pro" local="131457297400000000" remote="131763325800000000" Dst="1" />
+<file name="composer.json" server="avborik.pro" local="131457297400000000" remote="131763325800000000" Dst="1" />
+<file name="composer.lock" server="avborik.pro" local="131457297420000000" remote="131763325800000000" Dst="1" />
+<file name="get_oauth_token.php" server="avborik.pro" local="131457297680000000" remote="131763326400000000" Dst="1" />
+<file name="PHPMailerAutoload.php" server="avborik.pro" local="131457297370000000" remote="131763326400000000" Dst="1" />
+<file name="VERSION" server="avborik.pro" local="131457297370000000" remote="131763326400000000" Dst="1" />
+<file name="LICENSE" server="avborik.pro" local="131457297350000000" remote="131763326400000000" Dst="1" />
 </dwsync>
