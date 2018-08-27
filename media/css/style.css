@@ -861,10 +861,10 @@ html, body {
 }
 /* CV page*/
 .cv-projects a{
-	color: #8fa6b3;
+	/*color: #8fa6b3;*/
 }
 .cv-projects a:visited{
-	color: #8fa6b3;
+	/*color: #8fa6b3;*/
 }
 .cv-title { font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: #2a3744
@@ -872,7 +872,7 @@ html, body {
 .cv-text {
 	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	
-	color: #8fa6b3;
+	/*color: #8fa6b3;*/
 }
 .sert h3 {
 	text-decoration-color: aqua;
